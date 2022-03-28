@@ -1,0 +1,46 @@
+.container-festival{
+    width: 100%;
+    height: 590px;
+    background-image: url('../../assets/Preto-branco.png');
+    padding-top: 80px;
+    padding-left: 130px;
+    flex-direction: column;
+    display: flex;
+}
+.container-festival h3{
+    color: #FFF;
+    font-family: 'Relaway', sans-serif;
+    font-size: 50px;
+    font-style: italic;
+}
+
+.first{
+    font-weight: 900;
+}
+
+.second{
+    font-weight: 600;
+}
+
+.container-festival text{
+    color: #FFF;
+    font-family: 'Relaway', sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.container-festival button{
+    color: #FFF;
+    font-family: 'Relaway', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: transparent;
+    border-width: 0.5px;
+    border-color: #FFF;
+    padding: 15px;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 35px;
+}

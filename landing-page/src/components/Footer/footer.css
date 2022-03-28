@@ -1,0 +1,32 @@
+.footer{
+    background-color: #FFF;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.footer h2{
+    font-family: 'Relaway', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #181516;
+}
+
+.name{
+    font-family: 'Relaway', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #8B0022;
+}
+
+.icons{
+    width: 100px;
+    justify-content: space-between;
+    padding: 5px;
+    margin-top: 10px;
+    display: flex;
+}

@@ -1,7 +1,4 @@
 .container-header{
-    position: absolute;
-    top: 30px;
-    width: 100%;
     display: flex;
     padding: 0 5% 0 3%;
     justify-content: space-between;
@@ -17,19 +14,19 @@
 
 .header-item a{
     color: #8B0022;
-    font-size: 20px;
+    font-size: 18px;
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
 }
 
 .header-item button{
     color: #8B0022;
-    font-size: 20px;
+    font-size: 18px;
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     border-width: 2px;
     border-color: #8B0022;
     border-radius: 8px;
     background-color: transparent;
-    padding: 10px;
+    padding: 8px;
 }

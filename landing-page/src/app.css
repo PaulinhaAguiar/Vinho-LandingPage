@@ -1,0 +1,10 @@
+.div-absolute{
+    position: absolute;
+    width: 100%;
+    top: 30px;
+}
+
+.div-relative{
+    position: relative;
+    top: 20px;
+}

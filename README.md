@@ -14,7 +14,7 @@ Ainda não está responsiva.
 
 ## 📸 Layout
 
-<p>Criado pela desing <a href='https://instagram.com/yayadsgn?utm_medium=copy_link'>Yasmin Lopes</a>.</p>
+<p>Criado pela designer <a href='https://instagram.com/yayadsgn?utm_medium=copy_link'>Yasmin Lopes</a>.</p>
 <p>Abaixo, o layout:</p>
 <img src='https://user-images.githubusercontent.com/69828625/160497428-04c93538-fd68-4828-8ba7-25a1e3de9663.png'>
 
